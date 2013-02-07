@@ -4,7 +4,7 @@ author:Sameh Salama.
 Date: 7/2/2013.
 Email: eng.sameh11@gmail.com.
 
-This file is part a of SpellingBee Application.
+This is a SpellingBee Application Repo.
 
 SpellingBee Application is a free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
