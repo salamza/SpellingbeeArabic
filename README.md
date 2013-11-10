@@ -4,7 +4,6 @@ author:Sameh Salama.
 Date: 7/2/2013.
 Email: eng.sameh11@gmail.com.
 
-This is a SpellingBee Application Repo.
 
 SpellingBee Application is a free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -19,6 +18,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with SpellingBee Application. If not, see <http://www.gnu.org/licenses/>.
 
-Lum_King.wav is sound clip from Rayman Origins (2011),
+Lum_King.wav sound clip is from Rayman Origins (2011),
 Game was developed by Ubisoft Montpellier and published by Ubisoft. 
 The soundtrack was composed by Christophe Heral and Billy Martin.Copy right of clip belong to them.
