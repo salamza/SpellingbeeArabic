@@ -1,8 +1,8 @@
 SpellingbeeArabic
 =================
-author:Sameh Salama.
+author:Sameh Salama
+
 Date: 7/2/2013.
-Email: eng.sameh11@gmail.com.
 
 
 SpellingBee Application is a free software: you can redistribute it and/or modify
