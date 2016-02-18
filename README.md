@@ -1,9 +1,5 @@
 SpellingbeeArabic
 =================
-author:Sameh Salama
-
-Date: 7/2/2013.
-
 
 SpellingBee Application is a free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
