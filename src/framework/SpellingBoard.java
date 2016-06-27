@@ -85,7 +85,7 @@ public class SpellingBoard extends JPanel implements Runnable {
 		quizs = new QImagesStructure();
 		addKeyListener(new TAdapter());
 		try{
-		audioIn= AudioSystem.getAudioInputStream(new File("Lum_King.wav"));
+		audioIn= AudioSystem.getAudioInputStream(new File("C_Melodi-Jay_Sard-10152_hifi.mp3"));
 		clip = AudioSystem.getClip();
 		clip.open(audioIn);
 		}
