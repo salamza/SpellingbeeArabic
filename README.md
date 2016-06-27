@@ -1,6 +1,12 @@
 SpellingbeeArabic
 =================
+SpellingBeeArabic is a 2D game to help kids in learning the Arabic vocabulary. currently, it comes with 16 quizzes.
 
+#### TODO
+- Add more quizes.
+- Add How to play section.
+
+#### License
 SpellingBee Application is a free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
@@ -15,5 +21,5 @@ You should have received a copy of the GNU General Public License
 along with SpellingBee Application. If not, see <http://www.gnu.org/licenses/>.
 
 Lum_King.wav sound clip is from Rayman Origins (2011),
-Game was developed by Ubisoft Montpellier and published by Ubisoft. 
+Game was developed by Ubisoft Montpellier and published by Ubisoft.
 The soundtrack was composed by Christophe Heral and Billy Martin.Copy right of clip belong to them.
